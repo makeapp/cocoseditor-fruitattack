@@ -11,7 +11,7 @@ windows
 &nbsp;
 mac
 
-<a href="http://blog.makeapp.co/?attachment_id=442" rel="attachment wp-att-442"><img class="alignnone size-full wp-image-442" alt="QQ图片20140325193710" src="http://blog.makeapp.co/wp-content/uploads/2014/03/QQ图片20140325193710.jpg" width="600" height="400" /></a>
+<a href="http://blog.makeapp.co/?attachment_id=442" rel="attachment wp-att-442"><img class="alignnone size-full wp-image-442" alt="QQ图片20140325193710" src="http://blog.makeapp.co/wp-content/uploads/2014/03/QQ图片20140325193710.jpg" width="700" height="400" /></a>
 
 &nbsp;
 html5
